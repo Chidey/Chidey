@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Chidey! </h1>
 
-<!--
-**Chidey/Chidey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber and Cloud Security Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Azure</b>
+  - [Serve up multiple websites from one Azure VM on different IP addresses](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>🎖️ Certifications</h2>
+
+- eLearnSecurity Junior Penetration Tester (eJPT)
+- ISC2 Certified in Cybersecurity (CC)
+- Writing SC300, AZ900, SC900 in December 2024, AZ500 in January 2025🤞
+  
